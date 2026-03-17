@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 - 📍 Based in Japan (Osaka)
-- 🎓 GPA: 4.32 / 5
 - 🌐 Full-stack development experience (React + FastAPI)
 - 🤖 Worked on Robotics + Unity + ROS systems
 - 👨‍💻 Love solving real-world problems through technology
